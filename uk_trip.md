@@ -1,11 +1,12 @@
 trip to Rome & London
 ====================
-####1015~1022
+1015~1022
+-----------
 + **Rome :** 10/15 ~ 10/17
 + **London :** 10/18 ~ 10/20
 
 <br />
-<img src="" width="600"></img>
+<img src="https://github.com/jiyun075/uk-trip/blob/master/map.jpg?raw=true" width="600"></img>
 <br />
 <hr/>
 
