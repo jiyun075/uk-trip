@@ -5,7 +5,7 @@ trip to Rome & London
 + **London :** 10/18 ~ 10/20
 
 <br />
-<img src="https://github.com/jiyun075/uk-trip/blob/master/uk_trip.jpg?raw=true" width="600"></img>
+<img src="" width="600"></img>
 <br />
 <hr/>
 
